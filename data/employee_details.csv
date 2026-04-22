@@ -1,0 +1,9 @@
+emp_id,salary,job_title,performance_rating,location
+E001,85000,Senior Engineer,4.5,New York
+E002,62000,Marketing Analyst,3.8,Chicago
+E003,58000,HR Specialist,4.1,New York
+E004,72000,Software Engineer,4.0,San Francisco
+E005,91000,Finance Manager,4.7,Chicago
+E006,55000,Marketing Coordinator,3.5,Austin
+E007,60000,HR Manager,4.3,New York
+E009,78000,Data Analyst,4.2,San Francisco

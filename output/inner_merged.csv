@@ -1,0 +1,8 @@
+emp_id,name,department,hire_date,gender,salary,job_title,performance_rating,location
+E001,Alice Johnson,Engineering,2019-03-15,Female,85000,Senior Engineer,4.5,New York
+E002,Bob Smith,Marketing,2020-07-01,Male,62000,Marketing Analyst,3.8,Chicago
+E003,Carol White,HR,2018-11-20,Female,58000,HR Specialist,4.1,New York
+E004,David Brown,Engineering,2021-01-10,Male,72000,Software Engineer,4,San Francisco
+E005,Eva Martinez,Finance,2017-06-25,Female,91000,Finance Manager,4.7,Chicago
+E006,Frank Lee,Marketing,2022-03-08,Male,55000,Marketing Coordinator,3.5,Austin
+E007,Grace Kim,HR,2020-09-14,Female,60000,HR Manager,4.3,New York
